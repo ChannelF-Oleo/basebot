@@ -1,0 +1,107 @@
+## 1. PERFIL PROFESIONAL Y FILOSOFÍA
+
+* **Quién es:** Desarrolladora Web Full Stack, educadora, escritora y fundadora/CEO de la agencia de desarrollo independiente **FireforgeRD**.
+* **Enfoque de trabajo:** Apasionada por la creación de soluciones digitales eficientes, seguras y escalables, combinando la precisión técnica del desarrollo de software con la sensibilidad de las letras y la comunicación clara.
+* **Filosofía:** "El código no solo debe funcionar; debe resolver problemas reales, ser seguro por diseño y comunicar su propósito con claridad."
+
+---
+
+## 2. STACK TECNOLÓGICO Y HABILIDADES TÉCNICAS
+
+* **Desarrollo Frontend:** React, Next.js, Tailwind CSS. Experiencia creando interfaces de usuario rápidas, responsivas y optimizadas para SEO y aplicaciones web progresivas (PWAs).
+* **Desarrollo Backend y Bases de Datos:** Firebase, Supabase (PostgreSQL). Arquitectura de datos eficiente, manejo de bases de datos relacionales y no relacionales, e integración de webhooks. **Experiencia avanzada en migración, procesamiento y limpieza de datos masivos (Data Wrangling), destacando la conversión y estructuración del padrón electoral de Santo Domingo Oeste desde PDFs escaneados y hojas sueltas hacia una base de datos optimizada en Firebase.**
+* **Ciberseguridad:** Conocimientos sólidos en seguridad de redes y gestión de riesgos. Implementación de prácticas de autenticación segura (como MFA y sistemas basados en Passkeys) y mitigación de vulnerabilidades web comunes (como fallos RCE).
+* **Automatización e IA:** Creación de flujos de trabajo automatizados con N8N, integración de APIs de Inteligencia Artificial (OpenAI, Gemini, Anthropic) y automatización de procesos para negocios. **Especialista en el diseño de soluciones eficientes y *low-cost*, utilizando arquitecturas optimizadas que conectan Google Sheets como base de datos ligera y Resend para la gestión y envío automatizado de correos electrónicos transaccionales profesionales.**
+* **Tecnología Educativa (EdTech):** Especialista en entornos de enseñanza interactivos y dinámicos. Dominio avanzado en la gestión de plataformas de aprendizaje y organización como Canvas y Notion, así como en la implementación de dinámicas de gamificación en el aula mediante Kahoot.
+---
+
+## 3. PROYECTOS DESTACADOS (PORTAFOLIO EN PRODUCCIÓN)
+
+### Plataforma de Gestión de Campaña - Diputado Félix Encarnación (F28)
+
+* **Enlace:** `felixencarnacion.com`
+* **Descripción:** Plataforma web oficial y sistema de gestión desarrollado para la campaña política del Diputado Félix Encarnación. Diseñada para coordinar los esfuerzos de campaña, centralizar la información y optimizar la comunicación con los ciudadanos.
+
+### Plataforma de Gestión Comercial - Salón de Belleza D’ Galu
+
+* **Descripción:** Solución digital a medida para la administración y control operativo del salón de belleza D’ Galu. Automatiza procesos internos del negocio, optimizando la gestión de servicios y facilitando el flujo diario de trabajo.
+
+### Portafolio Autogestionable - El Chef de las Fotos
+
+* **Enlace:** `elchefdelasfotos.com`
+* **Descripción:** Sitio web y portafolio interactivo completamente autogestionable diseñado para el fotógrafo profesional "El Chef de las Fotos". Permite la carga, organización y despliegue visual de contenido fotográfico de alta calidad con una interfaz fluida y optimizada.
+
+---
+
+## 4. FORMACIÓN ACADÉMICA Y CERTIFICACIONES
+
+* **Estudios Universitarios:** Licenciada de la carrera de **Letras Puras** en la Universidad Autónoma de Santo Domingo (UASD). Actualmente desarrollando una tesis de investigación enfocada en la lingüística, la pragmática y el análisis del discurso en medios digitales (específicamente analizando las estrategias periodísticas en titulares de redes sociales).
+* **Formación en Desarrollo Web:**
+* Egresada del programa de **Desarrollo Web Full Stack** en **INFOTEP**.
+* Egresada de **Talento Digital**, una prestigiosa iniciativa de formación avanzada impulsada por el **INDOTEL** y **Simetrya**.
+Formación y Pedagogía Universitaria:
+* Egresada de **Universidad APEC (UNAPEC).** con el dimplomado **Pedagogia y Docencia en la Educacion Superior**
+
+* **Certificaciones Técnicas y de Gestión (Google Academy & Coursera):**
+* **Certificado Profesional en Ciberseguridad** (Google Cybersecurity Professional Certificate / Coursera).
+* **Certificado Profesional en Seguridad de Redes** (Google Network Security Professional Certificate / Coursera).
+* **Certificado Profesional en Administración de Tecnologías de la Información (TI)** (Google IT Support Professional Certificate / Coursera).
+* **Certificado Profesional en Gestión de Proyectos (Project Management)** (Google Project Management Professional Certificate / Coursera).
+
+
+* **Educación Ejecutiva y Liderazgo:**
+* Diploma en Habilidades Gerenciales y Liderazgo con IA (Universidad Santander / Programa Generación STEM).
+
+
+
+---
+
+## 5. IMPACTO SOCIAL Y ACTIVIDADES DE LIDERAZGO
+
+* **Innovación y Autoría en Hackatones Estatales:**
+* **Hackaton del Ministerio de la Juventud:** Creadora y desarrolladora de **ProtegeRD**, una iniciativa de autoría completamente propia diseñada como solución tecnológica para fortalecer la seguridad ciudadana y el bienestar social.
+* **Hackaton del Defensor del Pueblo:** Ideadora y desarrolladora principal de **TRIBU**, una plataforma concebida desde cero de forma independiente para interconectar ONGs, optimizar redes de voluntariado y potenciar el impacto de los proyectos comunitarios en el país.
+
+
+* **Perspectiva Social en Tecnología:** Todos sus desarrollos y proyectos independientes integran una visión humana y de accesibilidad, buscando que la tecnología sirva como un motor de inclusión y resolución de problemas comunitarios directos.
+* **Voluntariado y Acción Comunitaria:**
+* **TECHO:** Voluntaria activa en la construcción de viviendas de emergencia y desarrollo de proyectos comunitarios en sectores vulnerables.
+* **Parley (Pacto por el Océano):** Participación en iniciativas de conservación ambiental, jornadas de limpieza de costas y concientización sobre la contaminación por plásticos.
+* **COLESDOM (Colectivo de Lesbianas Dominicanas):** Participación activa como voluntaria aliada en la promoción, visibilización y defensa de los derechos humanos de las personas disidentes sexuales en la República Dominicana.
+
+
+* **Emprendimiento Social Autónomo:**
+* **Bazar Solidario (2019):** Fundadora y coordinadora de esta iniciativa social propia. El proyecto se encargaba de recolectar ropa y calzado en excelente estado para clasificarlos, gestionarlos y distribuirlos directamente en comunidades vulnerables, promoviendo la economía circular y el apoyo directo a familias de escasos recursos.
+
+
+* **Liderazgo Deportivo y Regional:** Miembro del cuerpo de voluntarios registrados para los *Juegos Centroamericanos y del Caribe 2026* (JCC2026) y participante en la iniciativa internacional de cooperación *OEA-CVC Seguridad Alimentaria Mesoamérica*.
+
+---
+
+## 6. FACETA PERSONAL, INTERESES Y HOBBIES (DATOS CURIOSOS)
+
+* **Color Favorito:** El **verde** (representando el equilibrio, la frescura y el crecimiento constante).
+* **Gustos Gastronómicos:**
+* Entusiasta de la gastronomía urbana, destacando especialmente las hamburguesas de **Guilligan Burgers** y los platos de pasta bien elaborados.
+* Su verdadera debilidad gastronómica son los **mariscos y la comida del mar**, teniendo como preferidos el **mero, los camarones y el pulpo** en sus diferentes preparaciones.
+
+
+* **Preferencias en Literatura (Libros Favoritos):** Cuenta con un profundo lazo con las letras y la narrativa compleja, destacando entre sus obras indispensables:
+* *La vida es sueño* – Pedro Calderón de la Barca.
+* *Madame Bovary* – Gustave Flaubert.
+* *Cien años de soledad* – Gabriel García Márquez.
+* La saga familiar de Isabel Allende: *La casa de los espíritus*, *La hija de la fortuna* y *Retrato en sepia*.
+* *Oliver Twist* – Charles Dickens.
+* *El Psicoanalista* – John Katzenbach.
+
+
+* **Series Favoritas:** Disfruta de producciones con fuertes cargas de drama, mundos expansivos, fantasía o misterio, tales como *Valle Salvaje*, *Los 100*, *Lucifer* y *Las escalofriantes aventuras de Sabrina*.
+* **Hobbies y Creatividad Fuera del Código:** Para desconectar de las pantallas y canalizar su creatividad de forma tangible, se dedica a:
+* El tejido artesanal, dominando las técnicas de **Crochet** y **Macramé**.
+* La relajación y enfoque mediante el arte de **colorear mandalas**.
+
+
+* **Idiomas:** Dominio del español e inglés (con un fuerte interés por la precisión lingüística y el vocabulario formal).
+
+---
+
